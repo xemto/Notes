@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "7aec89e95ea5e9fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ba33b670f46795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b5a90cec63f8d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/实现信号与槽.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5513cf7666b8e405",
+    "type": "split",
+    "children": [
+      {
+        "id": "5414799a30e42397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ee9bd6043b6eed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db4d8742660f5b83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59a6c0dcd56d482a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22db0bcfa6ae5698",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7887a098013775e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a1e4dd1ebb4fc22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "设计模式/实现信号与槽.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc63f8c3547552c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "设计模式/实现信号与槽.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45d7ab2eeeff59fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23913f01817598a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "设计模式/实现信号与槽.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b5a90cec63f8d07",
+  "lastOpenFiles": [
+    "Interview/C++默认行为.md",
+    "设计模式/实现信号与槽.md",
+    "设计模式",
+    "README.md"
+  ]
+}
