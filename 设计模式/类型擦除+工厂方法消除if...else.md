@@ -20,7 +20,7 @@ struct SleepMsg {
     int time; 
 
     void speak() { 
-        std::cout << "Sleep <<<< time << '\n'; 
+        std::cout << "Sleep" << time << '\n'; 
     }
 };
 
@@ -28,7 +28,7 @@ struct ExitMsg {
     void speak() {
         std::cout << "Exit" << '\n';
     }
-}
+};
 ```
 如果想存储这些类，那么就需要四个集合来操作，太过繁琐。
 ## 方法1：std::variant
@@ -211,7 +211,7 @@ inline static const std::map<std::string, MsgFactoryBase::Ptr> lut = {
 #define PER_MSG(Type) {#Type, makeFactory<Type##Msg>()},
         PER_MSG(Move)
         PER_MSG(Jump)
-        PER_MSG(Sleep)
+		PER_MSG(Sleep)
         PER_MSG(Exit)
 #undef PER_MSG
     // {"Move", makeFactory<MoveMsg>()},
